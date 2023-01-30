@@ -1,7 +1,9 @@
 # 13 Object-Relational Mapping (ORM): E-Commerce Back End
   
    Snapshot of using Insomnia to test e-commerce backend:
-![Screen Shot 2023-01-30 at 3 05 30 PM](https://user-images.githubusercontent.com/104470467/215583926-8052c79c-6a7e-43ca-8b35-6a96479b5a36.png)
+![products](https://user-images.githubusercontent.com/104470467/215586626-c3ccf4e6-caad-4c7d-834e-307973a648bb.png)
+![Categories](https://user-images.githubusercontent.com/104470467/215586641-2305f6ee-49b4-4a18-9198-014cd3537f6a.png)
+
 
 
 ## Video Link
@@ -56,4 +58,5 @@ The associated packages must all be enabled by running npm instal before the app
   ## Questions
    Email<br />
   <br />
+  If you have any quesiton:
   e-mail:nebiat787@gmail.com<br /><br />
